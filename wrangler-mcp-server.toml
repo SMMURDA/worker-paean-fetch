@@ -1,5 +1,5 @@
 name = "paean-cf-mcp"
-main = "mcp-proxt.js"
+main = "mcp-proxy.js"
 compatibility_date = "2025-06-18"
 
 [vars]
