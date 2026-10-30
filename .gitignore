@@ -1,0 +1,10 @@
+# Wrangler local state and cache
+.wrangler/
+node_modules/
+
+# Local secrets and cookies — never commit these
+.env
+.env.*
+*.cookie
+.smmo-cookie
+.cf-token

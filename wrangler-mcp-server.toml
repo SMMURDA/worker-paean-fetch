@@ -1,0 +1,7 @@
+name = "paean-cf-mcp"
+main = "mcp-proxt.js"
+compatibility_date = "2025-06-18"
+
+[vars]
+ORIGIN_ALLOWLIST = "https://rdkexbrd2.clide.app"
+CF_ACCOUNT_ID = "8daa35105d156ab1daa3f5fdaa56e7d5"
